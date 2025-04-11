@@ -38,3 +38,6 @@ ReversiAI/
 📸 Screenshot
 
 
+![alt text](<Screenshot 2025-04-11 101500-1.png>)
+![alt text](<Screenshot 2025-04-11 100804.png>)
+![alt text](<Screenshot 2025-04-11 101500.png>)
