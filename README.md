@@ -38,6 +38,6 @@ ReversiAI/
 📸 Screenshot
 
 
-c:\Users\HP\Downloads\Screenshot 2025-04-11 100553.png
+![alt text](<Screenshot 2025-04-11 100553.png>)
 ![alt text](<Screenshot 2025-04-11 100804.png>)
 ![alt text](<Screenshot 2025-04-11 101500.png>)
